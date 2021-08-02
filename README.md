@@ -2,6 +2,10 @@
 
 <div>
   <a href="https://github.com/celoficial">
+    <div style="display: block;">
+      <img align="center" src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="celoficial" />
+    </div>
+  
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=celoficial&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celoficial&layout=compact&langs_count=16&theme=dark" />
 </div>

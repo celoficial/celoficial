@@ -1,4 +1,4 @@
-## Koé! 💻🎮
+## Hi! 💻🎮
 
 <div>
   <a href="https://github.com/celoficial">

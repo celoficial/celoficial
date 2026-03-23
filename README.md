@@ -15,26 +15,29 @@
   <img height="180em" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celoficial&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
+**backend**
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img align="center" alt=".NET" src="https://img.icons8.com/color/48/000000/net-framework.png"/>
-  <img align="center" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img align="center" alt="Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-  <img align="center" alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img align="center" alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  <img align="center" alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img align="center" alt="Azure" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-  <img align="center" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
-  <img align="center" alt="Kubernetes" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+  <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+  <img align="center" alt="Python" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
 
-<div><br>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-4285F4?style=flat-square&logo=google&logoColor=white"/>
+**frontend**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
+  <img align="center" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img align="center" alt="React" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+</div>
+
+**cloud & devops**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  <img align="center" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img align="center" alt="Kubernetes" src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+  <img align="center" alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
 </div>
 
 ##
